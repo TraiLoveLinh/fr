@@ -1,0 +1,9 @@
+body{
+	background-image: url("./fr-img.jpg");
+	background-repeat: no-repeat;
+}
+
+h1{
+	font-family: fantasy;
+	color: pink;
+}
