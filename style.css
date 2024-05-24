@@ -1,8 +1,7 @@
 body{
 	background-image: url("./fr-img.jpg");
 	background-repeat: no-repeat;
-	min-height:100vh
-
+	background-size: 100%;
 }
 
 h1{
